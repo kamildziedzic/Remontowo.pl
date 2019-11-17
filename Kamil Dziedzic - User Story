@@ -1,0 +1,25 @@
+Jak użytkownik aplikacji chcę mież możliwość odnalezienia interesującego mnie przedsiębiorcy poprzez zaawansowaną wyszukiwarkę pozwalającą na wyszukanie profilu poprzez podanie nazwy profilu przedsiębiorcy, nazwy firmy, imię, nazwisko, NIP, nr telefonu, miasto oraz województwo.
+
+1. Wyszukiwarka znajduję wpisaną frazę w bazie. Fraza zostanie znaleziona jeśli zawiera się w części odnalezionego tekstu:
+
+2. pola będa walidowane po kliknięciuna stronie 'Wyszukaj'
+
+3.W przypadku nie znalezienia przedsiębiorcy zostanie zwrócony komunikat 'Brak przedsiębiorców  spełniających podane kryteria'
+
+4. Wymagania kryteriów wyszukiwania:
+
+-Nazwa profilu przedsiębiorcy - wprwadzić można małe oraz duże litery oraz cyfry i znaki specjalne :,/,-,!,?,@,%,&. Maksymalnie można wprowadzić 32 znaki, minimalnie 4.
+
+-Nazwa firmy - wprwadzić można małe oraz duże litery oraz cyfry i znaki specjalne :,/,-,!,?,@,%,&. Maksymalnie można wprowadzić 32 znaki, minimalnie 4.
+
+-Imię - wprwadzić można małe oraz duże litery. Maksymalnie można wprowadzić 16 znaków, minimalnie 4.
+
+-Nazwisko - wprwadzić można małe oraz duże litery. Maksymalnie można wprowadzić 16 znaków, minimalnie 4.
+
+-NIP - wprwadzić można cyfry oraz znak specjalny: - . Maksymalnie można wprowadzić 16 znaków, minimalnie 10.
+
+-Nr telefonu - wprwadzić można cyfry oraz znak specjalny: - . Maksymalnie można wprowadzić 16 znaków, minimalnie 9.
+
+-Miasto - wprwadzić można małe oraz duże litery oraz znaki specjalny: -. Maksymalnie można wprowadzić 32 znaków, minimalnie 4.
+
+-Województwo - wprwadzić można małe oraz duże litery oraz znaki specjalny: -. Maksymalnie można wprowadzić 32 znaków, minimalnie 4.
