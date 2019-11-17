@@ -3,8 +3,9 @@ Jako inwestor/przedsiębiorca chcę mieć możliwość wystawienia przetargu/lic
 
 Kryteria akceptacyjne
 
-Wybieram rodzaj usługi z zakresu dostępnych , ewentualnie wpisuje swój opis
-Wybieram zasięg prac . Użytkownik ma możliwość wybrania paru lokalizacji ( woj. , gmina, miasto)
-Możliwość ustalenia czasu potrzebnego na wykonanie usługi ( Do miesiąca, "na wczoraj" itp)
+Wybieram rodzaj usługi z zakresu dostępnych , ewentualnie wpisuje swój opis - wybór z listy rozwijalnej
+Wybieram zasięg prac . Użytkownik ma możliwość wybrania paru lokalizacji ( woj. , gmina, miasto) - lista rozwijalna
+Możliwość ustalenia czasu potrzebnego na wykonanie usługi ( Do miesiąca, "na wczoraj" itp) - wybór z kalendarza albo opis słowny
 Ustalenie licytacji na konkretną usługę  ( możliwość przebijania ofert przez przedsiębiorców)
-Ustawienie czasu trwania przetargu  ( jak długo nasza oferta ma wisieć na tablicy)
+Ustawienie czasu trwania przetargu  ( jak długo nasza oferta ma wisieć na tablicy) - wybieranie daty z kalendarza
+Potwierdzenie przetargu - podgląd jak będzie wyglądać dany przetarg/licytacja oraz wystawienie do aplikacji/witryny
