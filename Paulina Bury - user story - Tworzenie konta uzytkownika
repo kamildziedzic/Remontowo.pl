@@ -1,0 +1,9 @@
+USER STORY 
+Jako uzytkownik, chce miec mozliwosc zalozenia konta UZYTKOWNIKA, tak abym mogl wyszukac interesujacych mnie zleceniobiorcow w konkretnym obszarze.
+
+KRYTERIA AKCEPTACYJNE:
+1. Uzytkownik ma mozliwosc utworzenia konta uzytkownika zawierajacego dane teleadresowe.
+2. Uzytkownik moze wybrac najbardziej interesujace go uslugi.
+3. Uzytkownik ma opcje dodania zdjecia.
+4. Uzytkownik ma opcje wyboru sposobu platnosci za uslugi.
+ 
