@@ -1,12 +1,14 @@
 User story:
 Jako usługodawca, przy tworzeniu konta, chcę mieć możliwość wybrania zakresu usług, którę oferuję.
 Chcę mieć możliwość wprowadzenia zasięgu wykonywania usług.
-Chcę mieć możliwość wprowadzenia danych kontaktowych.
+Chcę mieć możliwość wprowadzenia danych kontaktowych, informacji o firmie.
 Chcę mieć możliwość dodania załączników i opisów do tych załączników. (np. Posiadane certyfikaty)
+
 
 
 Kryteria akceptacyjne:
 1. Możliwośc wybrania więcej niż jednej usługi.
 2. Możliwość stworzenia nowej usługi\kategorii.
-3. Pole NIP
+3. Podstawowe informacje  kontaktowe oraz informacje o firmie.
 4. Pole do dodania załącznika i opisu. 
+5. Narzędzie do weryfikacji działalności
