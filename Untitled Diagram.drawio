@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-15T13:01:03.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="5r1tlIaIAuBVgbsMo7_3" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T13:01:21.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="a3d8YyRA4_dzw_Ufisl5" version="12.4.2" type="github" pages="1">
   <diagram id="X4KtPScDE5aJx_dzZ8nU" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="440" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VTKftnoG7H33NL0N4lO0-3" value="Tworzenie konta" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="240" width="120" height="80" as="geometry"/>
+          <mxGeometry x="460" y="190" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="VTKftnoG7H33NL0N4lO0-4" value="Dodanie nowych kategorii" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="80" as="geometry"/>
@@ -20,7 +20,7 @@
           <mxGeometry x="770" y="440" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VTKftnoG7H33NL0N4lO0-7" value="Oceny i opinie" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="160" width="120" height="80" as="geometry"/>
+          <mxGeometry x="640" y="140" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="pVavtnSqjncw0e83FAwv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTKftnoG7H33NL0N4lO0-8">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0DhYK3gLRi87V5UBloDc-1" value="&lt;div&gt;Wystawienie &lt;br&gt;&lt;/div&gt;&lt;div&gt;licytacji\przetargu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="440" width="120" height="80" as="geometry"/>
+          <mxGeometry x="410" y="430" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="pVavtnSqjncw0e83FAwv-11" value="&amp;lt;requires&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTKftnoG7H33NL0N4lO0-5" target="VTKftnoG7H33NL0N4lO0-3">
           <mxGeometry relative="1" as="geometry">
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0DhYK3gLRi87V5UBloDc-6" value="Filtry" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="560" width="120" height="80" as="geometry"/>
+          <mxGeometry x="320" y="640" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="0DhYK3gLRi87V5UBloDc-8" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTKftnoG7H33NL0N4lO0-5" target="0DhYK3gLRi87V5UBloDc-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
