@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-15T12:53:25.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="LFNbvq10hJQt5vexdb6g" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T12:54:04.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="nMRHoyyCBJI6iiGOvWib" version="12.4.2" type="github" pages="1">
   <diagram id="X4KtPScDE5aJx_dzZ8nU" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="60" y="710" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0DhYK3gLRi87V5UBloDc-1" value="&lt;div&gt;Wystawienie &lt;br&gt;&lt;/div&gt;&lt;div&gt;licytacji&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0DhYK3gLRi87V5UBloDc-1" value="&lt;div&gt;Wystawienie &lt;br&gt;&lt;/div&gt;&lt;div&gt;licytacji\przetargu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="680" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="pVavtnSqjncw0e83FAwv-11" value="&amp;lt;requires&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTKftnoG7H33NL0N4lO0-5" target="VTKftnoG7H33NL0N4lO0-3">
